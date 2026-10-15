@@ -15,8 +15,8 @@ Separates Roll/Dodge from Sprint so they can have independent keybinds. This pre
 
 ## Requirements
 
-- An existing, compatible Windows BBPort installation.
-- This mod is built for the BBPort source version at commit `8ecba9a`.
+- An existing, compatible Windows Awaken's BBPort installation.
+- This mod is built for the Awakenchan's BBPort source version at commit `4f93643`.
 - This is not a standalone game and does not include Bloodborne game files.
 
 ## Installation
