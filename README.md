@@ -21,16 +21,17 @@ Separates Roll/Dodge from Sprint so they can have independent keybinds. This pre
 
 ## Installation
 
-1. Close Bloodborne and BBPort completely.
-2. Download the Windows ZIP from the Releases page.
-3. Open your BBPort installation folder. It should contain `run.bat`.
-4. Back up your existing `out/bb-probe.exe` by copying it to `out/bb-probe.original.exe`.
+1. Close Bloodborne and Awaken's BBPort completely.
+2. Download the Windows ZIP from the [Releases page](https://github.com/ikeeasianboy/Bloodborne-Independent-Controls/releases/latest) and extract it.
+3. Open your `BloodbornePC\engine` folder.
+4. Before installing, open the existing `out` folder and make a copy of `bb-probe.exe` named `bb-probe.original.exe`. **This backup is for uninstalling the mod** and restoring your original executable.
+5. Copy the `out` folder from the extracted mod into your `BloodbornePC\engine` folder.
+6. If Windows asks whether to merge folders or replace files, choose **Replace the files in the destination**.
+7. Launch Bloodborne normally through Awaken's BBPort.
 
-   **This backup is for uninstalling the mod.** It lets you restore the original executable without reinstalling BBPort.
+That's it! The mod is installed. No compiling or additional setup is required.
 
-5. Extract the ZIP into the BBPort folder, keeping the folder structure intact. Allow it to replace `out/bb-probe.exe`.
-6. Launch the game using `IndependentControls.bat`.
-7. Once in-game, open the main menu and go to **Keybinds** to configure your controls.
+**Note:** This mod is intended for compatible versions of Awaken's BBPort. If your installation doesn't contain `BloodbornePC\engine\out\bb-probe.exe`, don't replace anything until you've confirmed compatibility.
 
 ## Customizing Keybinds
 
