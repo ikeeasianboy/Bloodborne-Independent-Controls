@@ -65,7 +65,7 @@ If you didn't make a backup, restore the original executable from a compatible B
 ## Credits
 
 - **Mod:** ikeeasianboy
-- **Base project:** [DarkIzuku/bloodborne_pc](https://github.com/DarkIzuku/bloodborne_pc)
+- **Base project:** [Awakenchan/bloodbornebutpc](https://github.com/Awakenchan/BloodBorneButPc)
 - Thanks to the original BBPort/shadPS4 developers and contributors.
 
 ## License
